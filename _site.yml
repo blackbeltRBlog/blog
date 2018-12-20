@@ -1,0 +1,26 @@
+name: "blackbeltRBlog"
+title: "blackbeltR Blog"
+description: |
+  Este Blog reúne dicas, tutoriais e artigos relacionados à 
+  programação em R. A ideia é oferecer uma plataforma colaborativa em que
+  os próprios usuários possam contribuir com posts em nível acadêmico. Nosso
+  objetivo é formar faixas-pretas em R!
+base_url: https://blackbeltRBlog.github.io/blog/
+output_dir: "."
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Idealizadores & Editores"
+      href: contributors.html
+    - text: "Main Site"
+      href: http://blackbeltRBlog.github.io
+    - icon: fa fa-rss
+      href: index.xml
+collections:
+  posts:
+    disqus: RDojo
+    share: [twitter, linkedin]
+output: radix::radix_article

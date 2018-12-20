@@ -1,0 +1,34 @@
+---
+title: "Idealizadores e Editores"
+description: |
+  Informações sobre os idealizadores e principais editores do blog
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Idealizadores:
+
+- Pedro C. Brom [`r icon::fa("link")`]() 
+[`r icon::fa("github")`]()
+[`r icon::fa("stack-overflow")`]()
+[`r icon::fa("linkedin")`]()
+
+- Allan V. C. Quadros [`r icon::fa("link")`](https://allanvc.github.io) 
+[`r icon::fa("github")`](https://github.com/allanvc)
+[`r icon::fa("stack-overflow")`](https://stackoverflow.com/users/8287109/allanvc)
+[`r icon::fa("linkedin")`](https://www.linkedin.com/in/allan-vieira/)
+
+- Eduardo O. Hellas [`r icon::fa("link")`]()
+[`r icon::fa("github")`]()
+[`r icon::fa("stack-overflow")`]()
+[`r icon::fa("linkedin")`]()
+
+# Editores:
+
+- Quem?
+
+- Quem?
+
+- Quem?

@@ -1,0 +1,29 @@
+---
+title: "Sobre o blog blackbeltR"
+description: |
+  Alguns detalhes adicionais sobre o blog
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+O blackbeltR Blog é um espaço colaborativo focado em qualquer aspecto ou tópico 
+que envolva programação em R. Os posts e artigos deste blog são oriundos de dúvidas, 
+trabalhos e tutoriais indicados por seus usuários.
+
+A principal fonte de alimentação do blog são as discussões apresentadas no grupo 
+de WhatsApp do blackbeltR. Você pode ingressar no grupo utilizando este 
+[CONVITE](https://chat.whatsapp.com/9SJtJiOw6YN1DtVWeMGUhe). Periodicamente, 
+nós selecionamos eventuais tópicos e dúvidas oriundas do grupo 
+para compor o blog. Os responsáveis pelas soluções e tutoriais apresentados no 
+grupo são convidados a escreverem um breve post em RMarkdown. Desta forma, 
+os autores podem divulgar seu trabalho intelectual, ao mesmo tempo 
+em que contribuem para o crescimento da plataforma.
+
+Esperamos que você possa aproveitar o conteúdo disponível, bem como contribuir 
+para a manutenção e crescimento do blog!
+
+
+- Pedro C. Brom
+- Allan V. C. Quadros

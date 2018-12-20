@@ -1,0 +1,17 @@
+[
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to blackbeltR Blog",
+    "description": "Welcome to our new blog, blackbeltR Blog. We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2018-12-19",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2018-12-19T20:19:20-02:00"
+  }
+]
